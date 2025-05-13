@@ -1,0 +1,11 @@
+.envedith
+/database/edith.db
+/engine/cookies.json
+code.txt
+Contacts.csv
+*.log
+*.pyc
+/engine/config.py
+__pycache__/
+.DS_Store
+.env
